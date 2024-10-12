@@ -1,10 +1,15 @@
-- 👋 Hi, I’m Mabasa Gift 
-- 👀 I’m interested in learning new technologies and how to make the world a better place with technology
-- 🌱 I’m a Software Engineering Student at ALX(Holberton School), am doing hard things that will some day pays off
-- 🔭I'm working on improving my programming skills and ability to solve toughest problems
-- 💞️ I’m looking to collaborate on Software Engineering and System engineering & Dev Ops projects
-- 📫 How to reach me linkedin : https://www.linkedin.com/in/gift-mabasa?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BItTEZaCcQsyH1x4XV7uaIw%3D%3D
--    email: mabasagiftpd@gmail.com
+👋 Hi, I’m Mabasa Gift  
+👀 I’m interested in Software Engineering, DevOps, AI solutions, and cybersecurity. I love using technology to help businesses work better and more securely.  
+🌱 I’m a Software Engineer with experience in building software, automating tasks, and integrating AI to improve systems. I also focus on making sure the software I build is secure.  
+🔭 I’m working on improving my skills in programming, DevOps, and solving tough challenges in technology.  
+💞️ I’m looking to collaborate on Software Engineering, DevOps, AI, and cybersecurity projects to help companies grow and succeed. 
+
+📫 How to reach me: 
+
+LinkedIn: (https://www.linkedin.com/in/gift-mabasa)  
+Facebook: (https://www.facebook.com/profile.php?id=100008396890903)  
+Email: mabasagiftpd@gmail.com  
+Phone: +27 67 210 1145 
 
 <!---
 puffdog/puffdog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
